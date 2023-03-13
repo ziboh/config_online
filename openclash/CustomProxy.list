@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,uaa.com
 DOMAIN-SUFFIX,vpsxb.net
 DOMAIN-KEYWORD,bing
+DOMAIN-SUFFIX,nodejs.org
 
 # 获取国外ip
 DOMAIN-SUFFIX,ipify.org
