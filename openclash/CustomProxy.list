@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,uaa.com
 DOMAIN-SUFFIX,vpsxb.net
 DOMAIN-KEYWORD,bing
 DOMAIN-SUFFIX,nodejs.org
+DOMAIN,dl.google.com
 
 # 获取国外ip
 DOMAIN-SUFFIX,ipify.org
