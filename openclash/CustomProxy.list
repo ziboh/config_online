@@ -16,9 +16,10 @@ DOMAIN-SUFFIX,aiogram.dev
 DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,uaa.com
 DOMAIN-SUFFIX,vpsxb.net
-DOMAIN-KEYWORD,bing
+DOMAIN-SUFFIX,www.bing.com
 DOMAIN-SUFFIX,nodejs.org
-DOMAIN,dl.google.com
+DOMAIN-SUFFIX,dl.google.com
+DOMAIN-SUFFIX,deepl.com
 
 # 获取国外ip
 DOMAIN-SUFFIX,ipify.org
