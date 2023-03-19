@@ -20,10 +20,14 @@ DOMAIN-SUFFIX,www.bing.com
 DOMAIN-SUFFIX,nodejs.org
 DOMAIN-SUFFIX,dl.google.com
 DOMAIN-SUFFIX,deepl.com
+DOMAIN-SUFFIX,deepl.com
 
 # zerotier 代理
 DOMAIN-SUFFIX,zerotier.com
 PROCESS-NAME,zerotier-one
+
+# stackexchange.com
+DOMAIN-SUFFIX,stackexchange.com
 
 # 获取国外ip
 DOMAIN-SUFFIX,ipify.org
