@@ -20,9 +20,12 @@ DOMAIN-SUFFIX,www.bing.com
 DOMAIN-SUFFIX,nodejs.org
 DOMAIN-SUFFIX,dl.google.com
 DOMAIN-SUFFIX,deepl.com
-DOMAIN-SUFFIX,deepl.com
 DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,ssh.zzbbhh.sbs
+DOMAIN-SUFFIX,ossinsight.io
+DOMAIN-SUFFIX,chilloutai.com
+DOMAIN-SUFFIX,xms45.com
+DOMAIN-SUFFIX,ppa.launchpadcontent.net
 
 # zerotier 代理
 DOMAIN-SUFFIX,zerotier.com
