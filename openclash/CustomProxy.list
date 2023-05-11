@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,ppa.launchpadcontent.net
 DOMAIN-SUFFIX,kernel.ubuntu.com
 DOMAIN-SUFFIX,crate.io
 DOMAIN-SUFFIX,starship.rs
+DOMAIN-SUFFIX,rclone.org
 
 # zerotier 代理
 DOMAIN-SUFFIX,zerotier.com
