@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,ossinsight.io
 DOMAIN-SUFFIX,chilloutai.com
 DOMAIN-SUFFIX,xms45.com
 DOMAIN-SUFFIX,ppa.launchpadcontent.net
+DOMAIN-SUFFIX,kernel.ubuntu.com
 
 # zerotier 代理
 DOMAIN-SUFFIX,zerotier.com
