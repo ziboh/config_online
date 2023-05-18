@@ -30,6 +30,7 @@ DOMAIN-SUFFIX,crate.io
 DOMAIN-SUFFIX,starship.rs
 DOMAIN-SUFFIX,rclone.org
 DOMAIN-SUFFIX,alpinelinux.org
+DOMAIN-SUFFIX,registry.yarnpkg.com
 
 # zerotier 代理
 DOMAIN-SUFFIX,zerotier.com
