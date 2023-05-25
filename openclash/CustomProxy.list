@@ -15,7 +15,6 @@ DOMAIN-SUFFIX,aiogram.dev
 DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,uaa.com
 DOMAIN-SUFFIX,vpsxb.net
-DOMAIN-SUFFIX,www.bing.com
 DOMAIN-SUFFIX,nodejs.org
 DOMAIN-SUFFIX,dl.google.com
 DOMAIN-SUFFIX,deepl.com
@@ -32,6 +31,10 @@ DOMAIN-SUFFIX,rclone.org
 DOMAIN-SUFFIX,alpinelinux.org
 DOMAIN-SUFFIX,registry.yarnpkg.com
 DOMAIN-SUFFIX,rust-lang.org
+
+# Bing 代理
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,www.bingapi.com
 
 # zerotier 代理
 DOMAIN-SUFFIX,zerotier.com
