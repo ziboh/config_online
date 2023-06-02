@@ -31,6 +31,7 @@ DOMAIN-SUFFIX,rclone.org
 DOMAIN-SUFFIX,alpinelinux.org
 DOMAIN-SUFFIX,registry.yarnpkg.com
 DOMAIN-SUFFIX,rust-lang.org
+DOMAIN-SUFFIX,forefront.ai
 
 # Bing 代理
 DOMAIN-SUFFIX,bing.com
