@@ -49,3 +49,6 @@ DOMAIN-SUFFIX,stackexchange.com
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,ip.sb
 
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflare.dev
+
