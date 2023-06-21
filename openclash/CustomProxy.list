@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,alpinelinux.org
 DOMAIN-SUFFIX,registry.yarnpkg.com
 DOMAIN-SUFFIX,rust-lang.org
 DOMAIN-SUFFIX,clerk.dev
+DOMAIN-SUFFIX,vuejs.dev
 
 
 # Bing 代理
